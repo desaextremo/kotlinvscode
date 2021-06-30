@@ -12,7 +12,7 @@
 
 ***
 ## 1. Pre requisitos <a name="prerequisitos"></a> 
-[<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji> Regresar](#indice)
+<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji>[Regresar](#indice)
 
 * <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> instalado
 
@@ -34,14 +34,14 @@
 
 ## 2. Descargar y descomprimir el compilador de kotlin <a name="download"></a>
 
-[< Regresar](#indice)
+<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji>[Regresar](#indice)
 
 <strong><em><a href="https://github.com/JetBrains/kotlin/releases/tag/v1.5.20" target="_blank">Descargar coompilador kotlin</a></em></strong>
 
 
 ***
 <img src="images/windows.png"> <a name="windows"></a> 
-[< Regresar](#indice)
+<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji>[Regresar](#indice)
 
 #### Instalación
 
@@ -109,7 +109,7 @@
 * Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.
 	
 ***
-[< Regresar](#indice)
+<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji>[Regresar](#indice)
 
 <img src="images/linux.png"> <a name="linux"></a> 
 
@@ -145,7 +145,7 @@ $ kotlinc
 ***
 ## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> <a name="vscode"></a>
 
-[< Regresar](#indice)
+<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji>[Regresar](#indice)
 	
 * Iniciar <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>, escribir programa básico:
 
