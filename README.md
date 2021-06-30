@@ -12,7 +12,7 @@
 
 ***
 ## 1. Pre requisitos <a name="prerequisitos"></a> 
-<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji> [Regresar](#indice)
+[<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji> Regresar](#indice)
 
 * <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> instalado
 
