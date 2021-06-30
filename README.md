@@ -95,7 +95,5 @@ fun main(args: Array<String>) {
   
 	
 <p align="center">
-	<img src="images/kt8.png">
-	
-	<strong><em>Resultado en consola</em></strong>
+	<img src="images/kt8.png"><strong><em>Resultado en consola</em></strong>
 </p>	
