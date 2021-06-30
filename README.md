@@ -58,8 +58,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Modificar la variable path</em></strong>
 </p>
 
-`Hacer clic en el botón Nuevo`
-`Ingresar la ruta al directorio en donde se encuentra el compilador de Kotlin`
+`Hacer clic en el botón Nuevo, e ingresar la ruta al directorio en donde se encuentra el compilador de Kotlin`
  
 `Ejemplo:`
  ```
@@ -75,8 +74,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 1 Usando snap
 
-```
-  shell
+````shell
   $ sudo snap install --classic kotlin
 ```
 
