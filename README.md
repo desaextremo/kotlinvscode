@@ -12,7 +12,7 @@
 
 ***
 ## 1. Pre requisitos <a name="prerequisitos"></a> 
-<g-emoji class="g-emoji" alias="reverse button" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/25c0.png?v8">⬇</g-emoji> [Regresar](#indice)
+<g-emoji class="g-emoji" alias="reverse button" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/25c0.png"></g-emoji> [Regresar](#indice)
 
 * <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> instalado
 
