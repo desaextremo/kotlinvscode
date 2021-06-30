@@ -58,9 +58,9 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Modificar la variable path</em></strong>
 </p>
 
-1 Hacer clic en el botón <strong><em>Nuevo</em></strong>
+``Hacer clic en el botón <strong><em>Nuevo</em></strong>
 
-2 Ingresar la ruta al directorio en donde se encuentra el compilador de <strong><em>Kotlin:</em></strong> 
+Ingresar la ruta al directorio en donde se encuentra el compilador de <strong><em>Kotlin:</em></strong> 
 
 <strong><em><directorio instalacion de kotlin/ bin></em></strong>
  
