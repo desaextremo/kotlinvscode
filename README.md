@@ -40,9 +40,8 @@
 
 
 ***
-[< Regresar](#indice)
-
 <img src="images/windows.png"> <a name="windows"></a> 
+[< Regresar](#indice)
 
 #### Instalación
 
