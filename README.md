@@ -47,9 +47,9 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Descomprime el compilador kotlin en un directorio</em></strong>
 </p>
 
-#### Configurando las variables de entorno
+3. Configurando las variables de entorno
 
-1. Ingresar a variables de entorno a través del cuadro de busqueda de <strong><em>Window.</em></strong>
+* Ingresar a variables de entorno a través del cuadro de busqueda de <strong><em>Window.</em></strong>
 
 
 <p align="center">
@@ -60,7 +60,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Editar variables de entorno</em></strong>
 </p>
 
-2. Hacer clic en el botón <strong><em>Variables de entorno</em></strong>, ubicar la sección <strong><em>Variables de sistema</em></strong>, hacer clic sobre la variable <strong><em>path</em></strong> y luego clic en el botón <strong><em>Editar.</em></strong>
+* Hacer clic en el botón <strong><em>Variables de entorno</em></strong>, ubicar la sección <strong><em>Variables de sistema</em></strong>, hacer clic sobre la variable <strong><em>path</em></strong> y luego clic en el botón <strong><em>Editar.</em></strong>
 
 <p align="center">
 	<img src="images/kt3.png">
@@ -70,7 +70,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Configurar variables de entorno</em></strong>
 </p>
 
-3. Modificar la variable <strong><em>path</em></strong>
+* Modificar la variable <strong><em>path</em></strong>
 
 <p align="center">
 	<img src="images/kt4.png">
@@ -80,7 +80,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Modificar la variable path</em></strong>
 </p>
 
-4. Hacer clic en el botón Nuevo, e ingresar la ruta al directorio en donde se encuentra el compilador de Kotlin.
+* Hacer clic en el botón Nuevo, e ingresar la ruta al directorio en donde se encuentra el compilador de Kotlin.
  
 	**Ejemplo:**
  	```shell
@@ -89,18 +89,21 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
  	C:\software\kotlin-compiler-1.3.72\kotlinc\bin
  	```
 
-5. Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.
+* Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.
 	
 ***
 <img src="images/linux.png">
 
 
-#### Instalaciòn Usando snap
+#### Instalación
+
+1. Usando snap
 
 ```shell
   $ sudo snap install --classic kotlin
 ```
 
+***
 ## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>
 	
 * Iniciar <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>, escribir programa básico:
