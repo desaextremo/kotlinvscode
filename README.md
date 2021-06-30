@@ -57,8 +57,10 @@ https://github.com/desaextremo/kotlin
 
 	1 Hacer clic en el botón <strong><em>Nuevo</em></strong>
 
-	2 Ingresar la ruta al directorio en donde se encuentra el compilador de <strong><em>Kotlin:</em></strong> <strong><em><directorio instalacion de kotlin/ bin>
- </em></strong>**Ejemplo:**
+	2 Ingresar la ruta al directorio en donde se encuentra el compilador de <strong><em>Kotlin:</em></strong> 
+	<strong><em><directorio instalacion de kotlin/ bin></em></strong>
+ 
+ **Ejemplo:**
 	```
 	C:\software\kotlin-compiler-1.3.72\kotlinc\bin
 	```
