@@ -1,7 +1,6 @@
 # Tabla de contenido
 1. [Pre requisitos](#prerequisitos)
 2. [Descargar y descomprimir el compilador de kotlin](#download)
-    1. [Sub paragraph](#subparagraph1)
 3. [Iniciando Visual Studio Code(#vscode)
 
 
