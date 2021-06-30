@@ -17,6 +17,7 @@
 	<img src="images/kt6.png">
 	</a>
 </p>
+
 ***
 
 ## 2. Descargar y descomprimir el compilador de kotlin 
