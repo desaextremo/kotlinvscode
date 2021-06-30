@@ -1,4 +1,4 @@
-# Instalación y configuración del compilador Kotlin, en Visual Studio Code
+# Instalación y configuración del compilador Kotlin, en Visual Studio Code <a name="indice"></a>
 1. [Pre requisitos](#prerequisitos)
 2. [Descargar y descomprimir el compilador de kotlin](#download)
 3. [Iniciando Visual Studio Code](#vscode)
@@ -6,7 +6,7 @@
 
 
 ***
-## 1. Pre requisitos <a name="prerequisitos"></a>
+## 1. Pre requisitos <a name="prerequisitos"></a> [Inicio](#indice)
 
 * <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> instalado
 
@@ -26,7 +26,7 @@
 
 ***
 
-## 2. Descargar y descomprimir el compilador de kotlin <a name="download"></a>
+## 2. Descargar y descomprimir el compilador de kotlin <a name="download"></a> [Inicio](#indice)
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 ***
@@ -131,7 +131,7 @@ $ kotlinc
 </p>
 
 ***
-## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> <a name="vscode"></a> 
+## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> <a name="vscode"></a>  [Inicio](#indice)
 	
 * Iniciar <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>, escribir programa básico:
 
