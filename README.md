@@ -41,7 +41,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 #### Configurar variables de entorno
 
-* Ingresar a variables de entorno a través del cuadro de busqueda de <strong><em>Window.</em></strong>
+1. Ingresar a variables de entorno a través del cuadro de busqueda de <strong><em>Window.</em></strong>
 
 
 <p align="center">
@@ -52,7 +52,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Editar variables de entorno</em></strong>
 </p>
 
-* Hacer clic en el botón <strong><em>Variables de entorno</em></strong>, ubicar la sección <strong><em>Variables de sistema</em></strong>, hacer clic sobre la variable <strong><em>path</em></strong> y luego clic en el botón <strong><em>Editar.</em></strong>
+2. Hacer clic en el botón <strong><em>Variables de entorno</em></strong>, ubicar la sección <strong><em>Variables de sistema</em></strong>, hacer clic sobre la variable <strong><em>path</em></strong> y luego clic en el botón <strong><em>Editar.</em></strong>
 
 <p align="center">
 	<img src="images/kt3.png">
@@ -62,7 +62,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Configurar variables de entorno</em></strong>
 </p>
 
-* Modificar la variable <strong><em>path</em></strong>
+3. Modificar la variable <strong><em>path</em></strong>
 
 <p align="center">
 	<img src="images/kt4.png">
@@ -72,16 +72,16 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Modificar la variable path</em></strong>
 </p>
 
-`Hacer clic en el botón Nuevo, e ingresar la ruta al directorio en donde se encuentra el compilador de Kotlin`
+4. Hacer clic en el botón Nuevo, e ingresar la ruta al directorio en donde se encuentra el compilador de Kotlin.
  
-`Ejemplo:`
+**Ejemplo:**
  ```shell
  <directorio instalacion de kotlin>/ bin
  
  C:\software\kotlin-compiler-1.3.72\kotlinc\bin
  ```
 
-`Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.`
+5. Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.`
 	
 ---
 ### Linux
