@@ -1,6 +1,6 @@
 # Instalación y configuración del compilador Kotlin, en Visual Studio Code
 
-## Pre requisitos
+## 1. Pre requisitos
 
 * <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> instalado
 
@@ -19,10 +19,10 @@
 </p>
 
 
-### Descargar y descomprimir el compilador de kotlin para tu Sistema Operativo
+## 2. Descargar y descomprimir el compilador de kotlin para tu Sistema Operativo
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 ---
-## 1. Windows
+### Windows
 <p align="center">
 	<img src="images/kt1.png">
 </p>
@@ -84,7 +84,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 `Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.`
 	
 ---
-## 2. Linux
+### Linux
 
 * Instalaciòn Usando snap
 
@@ -92,7 +92,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
   $ sudo snap install --classic kotlin
 ```
 
-## Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>
+## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>
 	
 * Iniciar <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>, escribir programa básico:
 
