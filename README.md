@@ -12,7 +12,7 @@
 
 ***
 ## 1. Pre requisitos <a name="prerequisitos"></a> 
-https://github.githubassets.com/images/icons/emoji/unicode/2b05.png?v8	 [Regresar](#indice)
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png?v8"/>	 [Regresar](#indice)
 
 * <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> instalado
 
