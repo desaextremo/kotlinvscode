@@ -23,6 +23,8 @@
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 ---
 ### Windows
+
+* Instalación
 <p align="center">
 	<img src="images/kt1.png">
 </p>
