@@ -3,6 +3,7 @@
 2. [Descargar y descomprimir el compilador de kotlin](#download)
 
    [Windows](#windows)
+   
    [Linux](#linux)
    
 4. [Iniciando Visual Studio Code](#vscode)
