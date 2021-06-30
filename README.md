@@ -6,7 +6,8 @@
 
 
 ***
-## 1. Pre requisitos <a name="prerequisitos"></a> [Inicio](#indice)
+## 1. Pre requisitos <a name="prerequisitos"></a> 
+[Inicio](#indice)
 
 * <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> instalado
 
@@ -26,7 +27,9 @@
 
 ***
 
-## 2. Descargar y descomprimir el compilador de kotlin <a name="download"></a> [Inicio](#indice)
+## 2. Descargar y descomprimir el compilador de kotlin <a name="download"></a>
+[Inicio](#indice)
+
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 ***
@@ -131,7 +134,9 @@ $ kotlinc
 </p>
 
 ***
-## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> <a name="vscode"></a>  [Inicio](#indice)
+## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> <a name="vscode"></a>
+
+[Inicio](#indice)
 	
 * Iniciar <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>, escribir programa básico:
 
