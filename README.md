@@ -40,7 +40,8 @@
 
 
 ***
-<img src="images/windows.png"> <a name="windows"></a> 
+<img src="images/windows.png"> <a name="windows"></a>
+
 <g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji>[Regresar](#indice)
 
 #### Instalación
@@ -109,9 +110,9 @@
 * Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.
 	
 ***
-<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji>[Regresar](#indice)
-
 <img src="images/linux.png"> <a name="linux"></a> 
+
+<g-emoji class="g-emoji" alias="arrow_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b05.png">⬅</g-emoji>[Regresar](#indice)
 
 #### Instalación
 
