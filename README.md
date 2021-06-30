@@ -32,7 +32,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 </p>
   
 <p align="center">
-	<img src="images/kt2.png
+	<img src="images/kt2.png">
 </p>
 
 <p align="center">
