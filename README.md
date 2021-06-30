@@ -22,7 +22,7 @@
 ### Descargar y descomprimir el compilador de kotlin para tu Sistema Operativo
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
-* ***Windows***
+##  ***Windows***
 
 <p align="center">
 	<img src="images/kt1.png">
@@ -69,6 +69,15 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 	3 Hacer clic sobre el botón <strong><em>Aceptar</em></strong>, y dos veces más sobre el botón <strong><em>Aceptar</em></strong> 
 	de los cuadros de dialogo previamente abiertos.
+	
+
+##  ***Linux***
+
+* ***Usando snap***
+
+``shell
+$ sudo snap install --classic kotlin
+```
 
 * Iniciar <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>, escribir programa básico:
 
