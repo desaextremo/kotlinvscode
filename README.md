@@ -1,6 +1,6 @@
 # Instalación y configuración del compilador Kotlin, en Visual Studio Code
 
-### Pre requisitos
+## Pre requisitos
 
 * <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong> instalado
 
@@ -22,7 +22,7 @@
 ### Descargar y descomprimir el compilador de kotlin para tu Sistema Operativo
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
-### Windows
+## Windows
 
 <p align="center">
 	<img src="images/kt1.png">
@@ -52,34 +52,37 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 </p>
 
 * Modificar la variable <strong><em>path</em></strong>
+
 <p align="center">
 	<img src="images/kt4.png">
 	<strong><em>Modificar la variable path</em></strong>
 </p>
 
-	1 Hacer clic en el botón <strong><em>Nuevo</em></strong>
+1 Hacer clic en el botón <strong><em>Nuevo</em></strong>
 
-	2 Ingresar la ruta al directorio en donde se encuentra el compilador de <strong><em>Kotlin:</em></strong> 
-	<strong><em><directorio instalacion de kotlin/ bin></em></strong>
+2 Ingresar la ruta al directorio en donde se encuentra el compilador de <strong><em>Kotlin:</em></strong> 
+
+<strong><em><directorio instalacion de kotlin/ bin></em></strong>
  
- **Ejemplo:**
-	```
-	C:\software\kotlin-compiler-1.3.72\kotlinc\bin
-	```
+**Ejemplo:**
+ ```
+ C:\software\kotlin-compiler-1.3.72\kotlinc\bin
+ ```
 
-	3 Hacer clic sobre el botón <strong><em>Aceptar</em></strong>, y dos veces más sobre el botón <strong><em>Aceptar</em></strong> 
-	de los cuadros de dialogo previamente abiertos.
+3 Hacer clic sobre el botón <strong><em>Aceptar</em></strong>, y dos veces más sobre el botón <strong><em>Aceptar</em></strong> de los cuadros de dialogo previamente abiertos.
 	
 
-#### Linux
+## Linux
 
-* ***Usando snap***
+1 Usando snap
 
 ```
   shell
-$ sudo snap install --classic kotlin
+  $ sudo snap install --classic kotlin
 ```
 
+## Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>
+	
 * Iniciar <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>, escribir programa básico:
 
 ``` kotlin
