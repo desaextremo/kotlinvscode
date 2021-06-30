@@ -1,7 +1,7 @@
 # Tabla de contenido
 1. [Pre requisitos](#prerequisitos)
 2. [Descargar y descomprimir el compilador de kotlin](#download)
-3. [Iniciando Visual Studio Code(#vscode)
+3. [Iniciando Visual Studio Code](#vscode)
 
 
 # Instalación y configuración del compilador Kotlin, en Visual Studio Code
