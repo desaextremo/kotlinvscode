@@ -121,7 +121,7 @@ $ kotlinc
 </p>
 
 <p align="center">
-	<strong><em>COmpilaro de Kotlin en la terminal de Visual Studio COde</em></strong>
+	<strong><em>Compilador de Kotlin en la terminal de Visual Studio Code</em></strong>
 </p>
 
 ***
