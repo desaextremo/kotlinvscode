@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank">
+	<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank">
 	<img src="images/kt6.png">
 	</a>
 </p>
@@ -25,11 +25,17 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 ## Windows
 <p align="center">
 	<img src="images/kt1.png">
+</p>
+
+<p align="center">
 	<strong><em>Compilador de kotlin para Windows</em></strong>
 </p>
   
 <p align="center">
-	<img src="images/kt2.png">
+	<img src="images/kt2.png
+</p>
+
+<p align="center">
 	<strong><em>Descomprime el compilador kotlin en un directorio</em></strong>
 </p>
 
@@ -40,6 +46,9 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 <p align="center">
 	<img src="images/kt7.png">
+</p>
+
+<p align="center">
 	<strong><em>Editar variables de entorno</em></strong>
 </p>
 
