@@ -24,7 +24,10 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 ---
 ### Windows
 
-* Instalación
+#### Instalación
+
+1. Descaragar el compilador **kotlinc**
+
 <p align="center">
 	<img src="images/kt1.png">
 </p>
@@ -32,6 +35,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 <p align="center">
 	<strong><em>Compilador de kotlin para Windows</em></strong>
 </p>
+2. Descomprimir
   
 <p align="center">
 	<img src="images/kt2.png">
