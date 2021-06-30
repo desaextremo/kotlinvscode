@@ -103,6 +103,12 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
   $ sudo snap install --classic kotlin
 ```
 
+2. SDKMAN
+
+```shell
+  $ sdk install kotlin
+```
+
 ***
 ## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>
 	
