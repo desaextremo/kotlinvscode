@@ -90,10 +90,12 @@ fun main(args: Array<String>) {
 	println("hola mundo");
 }
 ```
+	
 * Hacer clic en el botón <strong><em>Run code</em></strong>, o pulsar la combinación de teclas <strong><em>(Ctrl + Alt +N)</em></strong>
   
 	
 <p align="center">
 	<img src="images/kt8.png">
+	
 	<strong><em>Resultado en consola</em></strong>
 </p>	
