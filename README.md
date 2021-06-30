@@ -22,7 +22,7 @@
 ### Descargar y descomprimir el compilador de kotlin para tu Sistema Operativo
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 ---
-## Windows
+## 1. Windows
 <p align="center">
 	<img src="images/kt1.png">
 </p>
@@ -84,7 +84,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 `Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.`
 	
 ---
-## Linux
+## 2. Linux
 
 * Instalaciòn Usando snap
 
