@@ -21,9 +21,10 @@
 
 ### Descargar y descomprimir el compilador de kotlin para tu Sistema Operativo
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
+---
 
 ## Windows
-
+---
 <p align="center">
 	<img src="images/kt1.png">
 	<strong><em>Compilador de kotlin para Windows</em></strong>
