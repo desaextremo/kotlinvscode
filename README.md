@@ -19,14 +19,14 @@
 </p>
 
 
-## 2. Descargar y descomprimir el compilador de kotlin para tu Sistema Operativo
+## 2. Descargar y descomprimir el compilador de kotlin 
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 ---
 ### Windows
 
 #### Instalación
 
-1. Descaragar el compilador **kotlinc**
+1. Descargar el compilador **kotlinc**
 
 <p align="center">
 	<img src="images/kt1.png">
@@ -35,7 +35,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 <p align="center">
 	<strong><em>Compilador de kotlin para Windows</em></strong>
 </p>
-2. Descomprimir
+2. Descomprimir el archivo
   
 <p align="center">
 	<img src="images/kt2.png">
@@ -89,10 +89,9 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 5. Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.`
 	
----
 ### Linux
 
-1. Instalaciòn Usando snap
+#### Instalaciòn Usando snap
 
 ```shell
   $ sudo snap install --classic kotlin
