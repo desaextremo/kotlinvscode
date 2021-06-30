@@ -103,10 +103,17 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
   $ sudo snap install --classic kotlin
 ```
 
-2. SDKMAN
+2. Instalación manual - SDKMAN
 
 ```shell
+  $ curl -s https://get.sdkman.io | bash
   $ sdk install kotlin
+```
+
+Verificar la instalaciòn
+
+```shell
+$ kotlinc
 ```
 
 ***
