@@ -58,7 +58,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Modificar la variable path</em></strong>
 </p>
 
-**Hacer clic en el botón** `Nuevo`
+* **Hacer clic en el botón** `Nuevo`
 
 Ingresar la ruta al directorio en donde se encuentra el compilador de <strong><em>Kotlin:</em></strong> 
 
