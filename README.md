@@ -40,6 +40,8 @@
 
 
 ***
+[< Regresar](#indice)
+
 <img src="images/windows.png"> <a name="windows"></a> 
 
 #### Instalación
@@ -108,9 +110,9 @@
 * Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.
 	
 ***
-<img src="images/linux.png"> <a name="linux"></a> 
-
 [< Regresar](#indice)
+
+<img src="images/linux.png"> <a name="linux"></a> 
 
 #### Instalación
 
