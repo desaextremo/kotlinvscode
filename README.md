@@ -62,7 +62,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
  
 `Ejemplo:`
  ```shell
- <directorio instalacion de kotlin/ bin
+ <directorio instalacion de kotlin>/ bin
  
  C:\software\kotlin-compiler-1.3.72\kotlinc\bin
  ```
@@ -93,5 +93,8 @@ fun main(args: Array<String>) {
 	
 <p align="center">
 	<img src="images/kt8.png">
+</p>
+
+<p align="center">
 	<strong><em>Resultado en consola</em></strong>
-</p>	
+</p>
