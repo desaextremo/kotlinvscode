@@ -110,6 +110,7 @@
 ***
 <img src="images/linux.png"> <a name="linux"></a> 
 
+[< Regresar](#indice)
 
 #### Instalación
 
