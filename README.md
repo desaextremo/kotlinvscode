@@ -22,7 +22,7 @@
 ## 2. Descargar y descomprimir el compilador de kotlin 
 https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 ---
-### Windows
+### Windows <img src="images/windows.png">
 
 #### Instalación
 
