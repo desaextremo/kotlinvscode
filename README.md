@@ -65,7 +65,8 @@ https://github.com/desaextremo/kotlin
 	C:\software\kotlin-compiler-1.3.72\kotlinc\bin
 	```
 
-	3 Hacer clic sobre el botón <strong><em>Aceptar</em></strong>, y dos veces más sobre el botón <strong><em>Aceptar</em></strong> de los cuadros de dialogo previamente abiertos.
+	3 Hacer clic sobre el botón <strong><em>Aceptar</em></strong>, y dos veces más sobre el botón <strong><em>Aceptar</em></strong> 
+	de los cuadros de dialogo previamente abiertos.
 
 * Iniciar <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>, escribir programa básico:
 
