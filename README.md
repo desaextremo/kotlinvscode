@@ -72,7 +72,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 ## Linux
 
-1 Usando snap
+* Instalaciòn Usando snap
 
 ```shell
   $ sudo snap install --classic kotlin
@@ -92,5 +92,6 @@ fun main(args: Array<String>) {
   
 	
 <p align="center">
-	<img src="images/kt8.png"><strong><em>Resultado en consola</em></strong>
+	<img src="images/kt8.png">
+	<strong><em>Resultado en consola</em></strong>
 </p>	
