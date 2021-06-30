@@ -74,19 +74,19 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 4. Hacer clic en el botón Nuevo, e ingresar la ruta al directorio en donde se encuentra el compilador de Kotlin.
  
-**Ejemplo:**
- ```shell
- <directorio instalacion de kotlin>/ bin
+	**Ejemplo:**
+ 	```shell
+ 	<directorio instalacion de kotlin>/ bin
  
- C:\software\kotlin-compiler-1.3.72\kotlinc\bin
- ```
+ 	C:\software\kotlin-compiler-1.3.72\kotlinc\bin
+ 	```
 
 5. Hacer clic sobre el botón Aceptar, y dos veces más sobre el botón Aceptar en los cuadros de dialogo previamente abiertos.`
 	
 ---
 ### Linux
 
-* Instalaciòn Usando snap
+1. Instalaciòn Usando snap
 
 ```shell
   $ sudo snap install --classic kotlin
