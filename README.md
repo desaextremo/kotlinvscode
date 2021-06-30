@@ -39,7 +39,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 	<strong><em>Descomprime el compilador kotlin en un directorio</em></strong>
 </p>
 
-### Configurar variables de entorno
+#### Configurar variables de entorno
 
 * Ingresar a variables de entorno a través del cuadro de busqueda de <strong><em>Window.</em></strong>
 
