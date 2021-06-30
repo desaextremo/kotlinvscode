@@ -20,7 +20,7 @@
 
 
 ### Descargar y descomprimir el compilador de kotlin para tu Sistema Operativo
-https://github.com/desaextremo/kotlin
+https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 <p align="center">
 	<img src="images/kt1.png">
