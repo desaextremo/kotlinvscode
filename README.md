@@ -28,8 +28,10 @@
 ***
 
 ## 2. Descargar y descomprimir el compilador de kotlin <a name="download"></a>
+
 [< Regresar](#indice)
- <strong><em><a href="https://github.com/JetBrains/kotlin/releases/tag/v1.5.20" target="_blank">Descargar coompilador kotlin</a></em></strong> instalado
+
+<strong><em><a href="https://github.com/JetBrains/kotlin/releases/tag/v1.5.20" target="_blank">Descargar coompilador kotlin</a></em></strong>
 
 
 ***
