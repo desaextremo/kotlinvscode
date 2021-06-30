@@ -116,6 +116,14 @@ Verificar la instalaciòn
 $ kotlinc
 ```
 
+<p align="center">
+	<img src="images/kotlinc.png">
+</p>
+
+<p align="center">
+	<strong><em>COmpilaro de Kotlin en la terminal de Visual Studio COde</em></strong>
+</p>
+
 ***
 ## 3. Iniciando  <strong><em><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></em></strong>
 	
