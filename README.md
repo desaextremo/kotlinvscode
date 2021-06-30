@@ -47,6 +47,9 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 <p align="center">
 	<img src="images/kt3.png">
+</p>
+
+<p align="center">
 	<strong><em>Configurar variables de entorno</em></strong>
 </p>
 
@@ -54,6 +57,9 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.5.20
 
 <p align="center">
 	<img src="images/kt4.png">
+</p>
+
+<p align="center">
 	<strong><em>Modificar la variable path</em></strong>
 </p>
 
